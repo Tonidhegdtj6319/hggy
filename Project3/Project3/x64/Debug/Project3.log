@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\student\Documents\инна\Project3\Project3\MyForm.h(296,22): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\student\Documents\инна\Project3\x64\Debug\Calculator.exe
