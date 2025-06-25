@@ -1,0 +1,6 @@
+C:\Users\student\Documents\alimpyeva(1)\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\alimpyeva(1)\Project5\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\student\Documents\alimpyeva(1)\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+D:\учеба\уголько\Project5\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+D:\учеба\уголько\Project5\Project5\x64\Debug\Project5.MyForm.resources
+D:\учеба\уголько\Project5\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
